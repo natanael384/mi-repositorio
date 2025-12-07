@@ -41,7 +41,7 @@ margin: 0 auto;
     100% { transform: translateY(-20px) rotate(10deg); }
 }
 
-/* ❄ Nieve con CSS puro, sin JavaScript */
+
 .snow {
   position: fixed;
   top: 0;
