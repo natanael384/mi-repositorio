@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Registro de estudiantes</title>
+    <link rel="stylesheet" href="../trabajos-css/Ra4.css">
+</head>
+
+<body>
+
+<form action="https://formsubmit.co/nathanaelmartinezm@gmail.com" method="POST">
+
+<h1>Registro de estudiantes</h1><br>
+
+<label for="nombre">Nombre:</label>
+<input type="text" id="nombre" name="nombre" placeholder="Escribe tu nombre" required>
+<br><br>
+
+<label for="direccion">Dirección:</label>
+<textarea id="direccion" name="direccion" placeholder="Escribe tu dirección" required></textarea>
+<br><br>
+
+<label for="telefono">Teléfono:</label>
+<input type="tel" id="telefono" name="telefono" placeholder="000-000-0000" required>
+<br><br>
+
+<label for="edad">Edad:</label>
+<input type="number" id="edad" name="edad" required>
+<br><br>
+
+<label for="genero">Género:</label>
+<select id="genero" name="genero" required>
+    <option value="">Seleccione</option>
+    <option value="masculino">Masculino</option>
+    <option value="femenino">Femenino</option>
+    <option value="no_decir">Prefiero no decirlo</option>
+</select>
+<br><br>
+
+<label for="email">Email:</label>
+<input type="email" id="email" name="email" required>
+<br><br>
+
+<label for="area_tecnica">Área Técnica:</label>
+<select id="area_tecnica" name="area_tecnica" required>
+    <option value="">Seleccione</option>
+    <option value="informatica">Informática</option>
+    <option value="enfermeria">Enfermería</option>
+    <option value="contabilidad">Contabilidad</option>
+    <option value="gastronomia">Gastronomía</option>
+</select>
+<br><br>
+
+<h2>Curso</h2>
+<input type="radio" name="curso" value="1RO" required> 1RO<br>
+<input type="radio" name="curso" value="2DO"> 2DO<br>
+<input type="radio" name="curso" value="3RO"> 3RO<br>
+<input type="radio" name="curso" value="4TO"> 4TO<br>
+<input type="radio" name="curso" value="5TO"> 5TO<br>
+<input type="radio" name="curso" value="6TO"> 6TO<br>
+
+<h2>Sección</h2>
+<input type="radio" name="seccion" value="A" required> A<br>
+<input type="radio" name="seccion" value="B"> B<br>
+<input type="radio" name="seccion" value="C"> C<br>
+<input type="radio" name="seccion" value="D"> D<br>
+<input type="radio" name="seccion" value="E"> E<br><br>
+
+<input type="submit" value="Enviar">
+
+</form>
+
+</body>
+</html>
