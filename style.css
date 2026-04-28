@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+
+.flex {
+  margin: auto;
+  display: flex;
+  gap: 7rem;
+  position: absolute;
+  top: 15%;
+  left: 7%;
+  margin: 10px;
+}
+
+.card1 {
+  background-color: #fff;
+  padding: 15px;
+  padding-bottom: 20px;
+  padding-right: 1.3rem;
+  padding-left: 1.3rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  box-shadow: 0 0 15px red;
+  border-radius: 12px;
+  margin: 25px;
+  text-align: center;
+  transition: transform 0.3s ease;
+}
+
+.card1:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 12px red;
+}
+
+
+
+.imagenes img {
+  width: 10rem;
+  height: 10rem;
+  object-fit: cover;
+  border-radius: 50%;
+  margin: 10px;
+  border: solid 2px #000;
+}
+
+.card2 {
+  background-color: #fff;
+  padding: 15px;
+  padding-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  box-shadow: 0 0 15px green;
+  border-radius: 12px;
+  margin: 25px;
+  text-align: center;
+  transition: transform 0.3s ease;
+}
+
+.card2:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 12px green;
+}
+
+
+.card3 {
+  background-color: #fff;
+  padding: 15px;
+  padding-right: 1.3rem;
+  padding-left: 1.3rem;
+  padding-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  box-shadow: 0 0 15px blue;
+  border-radius: 12px;
+  margin: 25px;
+  text-align: center;
+  transition: transform 0.3s ease;
+}
+
+.card3:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 12px blue;
+}
+
+.input input[type="submit"] {
+  margin-top: 30px;
+  margin: 10px;
+  width: 6rem;
+  background-color: rgba(255, 0, 0, 0.719);
+  color: #fff;
+  transition: transform 0.3s ease;
+  cursor: pointer;
+  border-radius: 10px;
+  border: none;
+  padding: 3px;
+}
+
+.input input[type="submit"]:hover {
+  transform: scale(1.05);
+}
+
+
+.card1 .input input[type="submit"]{
+      box-shadow: 0 0 6px red;
+}
+
+.card2 .input input[type="submit"]{
+      box-shadow: 0 0 6px green;
+}
+
+
+.card3 .input input[type="submit"]{
+      box-shadow: 0 0 6px blue;
+}
