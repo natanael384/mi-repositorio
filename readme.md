@@ -21,6 +21,8 @@ Este sitio web consiste en mostrar una imagen cuando el mouse le pase por ensima
 ## 📸 Imágenes de la ejecución del proyecto
 
 ![Captura de pantalla de el projecto](img/Captura%20de%20pantalla%202026-04-27%20215519.png)
+
+
 ![captura de pantalla de con resultado](img/Captura%20de%20pantalla%202026-04-27%20215716.png)
 
 ---
