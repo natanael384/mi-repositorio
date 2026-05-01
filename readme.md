@@ -31,6 +31,8 @@ Este sitio web consiste en mostrar una imagen de anime cuando le das click al bo
 
 ## ▶️ uso o Ejecución
 
+
+
 1. Ve al repositorio en GitHub.
 2. En la parte derecha, haz clic en el botón Code.
 3. Selecciona  dale un click Download ZIP.
