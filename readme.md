@@ -2,7 +2,6 @@
 
 ### Consumo de api
 
----
 
 ## 📃 Descripción
 
