@@ -1,7 +1,7 @@
 ## Nombre del Proyecto
 
 
-### Consumo de api
+#### Consumo de api
 ---
 
 ## 📃 Descripción
@@ -47,18 +47,18 @@ Secundaria Técnico Profesional.
 
 ### Módulo Formativo:
 
-#### Diseño de portales web
+ Diseño de portales web
 
 ### Curso/Sección:
 
-#### 4to D
+4to D
 
 ### Año escolar:
 
-#### año 2025/2026.
+año 2025/2026.
 
 ---
 
-# 👨‍💻 Autor
+## 👨‍💻 Autor
 
 #### Reymond Nathanael Martinez Mota
