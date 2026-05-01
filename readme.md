@@ -7,7 +7,7 @@
 ## 📃 Descripción
 
 
-Este sitio web consiste en mostrar una imagen de anime cuando le das click al boton click.
+Este sitio web consiste en mostrar una imagen de anime Aleatoriamente cuando le das click al boton click.
 
 ---
 ## 🛠️ Tecnologías Utilizadas
@@ -30,8 +30,6 @@ Este sitio web consiste en mostrar una imagen de anime cuando le das click al bo
 ---
 
 ## ▶️ uso o Ejecución
-
-
 
 1. Ve al repositorio en GitHub.
 2. En la parte derecha, haz clic en el botón Code.
