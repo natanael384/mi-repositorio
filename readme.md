@@ -4,7 +4,7 @@
 ### Consumo de api
 ---
 
-# 📃 Descripción
+## 📃 Descripción
 
 
 Este sitio web consiste en mostrar una imagen de anime Aleatoriamente cuando le das click al boton click.
@@ -29,13 +29,13 @@ Este sitio web consiste en mostrar una imagen de anime Aleatoriamente cuando le 
 
 ---
 
-# ▶️ uso o Ejecución
+## ▶️ uso o Ejecución
 
-1. Ve al repositorio en GitHub.
-2. En la parte derecha, haz clic en el botón Code.
-3. Selecciona  dale un click Download ZIP.
-4. Extrae el archivo descargado.
-5. Abre el archivo index.html con doble clic para ejecutar  la página en el navegador.
+#### 1. Ve al repositorio en GitHub.
+#### 2. En la parte derecha, haz clic en el botón Code.
+#### 3. Selecciona  dale un click Download ZIP.
+#### 4. Extrae el archivo descargado.
+#### 5. Abre el archivo index.html con doble clic para ejecutar  la página en #### el navegador.
 
 ---
 
