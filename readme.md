@@ -61,4 +61,4 @@ año 2025/2026.
 
 ## 👨‍💻 Autor
 
-Reymond Nathanael Martinez Mota
+#### Reymond Nathanael Martinez Mota
