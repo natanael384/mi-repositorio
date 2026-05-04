@@ -35,7 +35,7 @@ Este sitio web consiste en mostrar una imagen de anime Aleatoriamente cuando le 
  2. En la parte derecha, haz clic en el botón Code.
  3. Selecciona  dale un click Download ZIP.
  4. Extrae el archivo descargado.
- 5. Abre el archivo index.html con doble clic para ejecutar  la página en el navegador.
+ 5. Abre el archivo index.html con doble clic para ejecutar  la página en ####el navegador.
 
 ---
 
